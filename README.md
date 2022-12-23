@@ -359,7 +359,9 @@ Here is a list of all the environment variables
 ## Authors
 
 John Crepezzi <john.crepezzi@gmail.com>
+
 [Josh Baker](https://github.com/devous) <hello@joshbaker.gg>
+
 [root](https://github.com/sxroot) <ihave@gun.wtf>
 
 ## License
